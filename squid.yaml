@@ -1,5 +1,5 @@
 manifestVersion: subsquid.io/v0.1
-name: substrate-template
+name: polkasquid
 version: 1
 description: |-
   The very first squid from manifest  
