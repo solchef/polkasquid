@@ -1,0 +1,3 @@
+[submodule "polkasquid"]
+	path = polkasquid
+	url = https://github.com/solchef/polkasquid
